@@ -1,6 +1,9 @@
-<project> 
-    <modelVersion>4.0.0</modelVersion>
-    <groupId>net.sf</groupId>
-    <artifactId>cb2xml</artifactId>
-    <version>1.01.2</version>
-</project>
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 28 15:59:17 IST 2021
+@default-github.io-https\://github.com/tsk1996/cb2xml/src/.lastUpdated=1632823111411
+https\://repo.maven.apache.org/maven2/.lastUpdated=1632821422441
+@default-github.com-https\://github.com/tsk1996/cb2xml/.lastUpdated=1632824957483
+https\://repo.maven.apache.org/maven2/.error=
+https\://github.com/tsk1996/cb2xml/.error=Could not transfer artifact net.sf\:cb2xml\:pom\:1.01.2 from/to github.com (https\://github.com/tsk1996/cb2xml)\: Transfer failed for https\://github.com/tsk1996/cb2xml/net/sf/cb2xml/1.01.2/cb2xml-1.01.2.pom
+@default-github.io-https\://github.com/tsk1996/cb2xml/.lastUpdated=1632822839867
+https\://github.com/tsk1996/cb2xml/src/.error=Could not transfer artifact net.sf\:cb2xml\:pom\:1.01.2 from/to github.io (https\://github.com/tsk1996/cb2xml/src)\: Transfer failed for https\://github.com/tsk1996/cb2xml/src/net/sf/cb2xml/1.01.2/cb2xml-1.01.2.pom
